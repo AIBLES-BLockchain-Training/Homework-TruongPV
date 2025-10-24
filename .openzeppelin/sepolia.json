@@ -1,0 +1,1364 @@
+{
+  "manifestVersion": "3.2",
+  "proxies": [
+    {
+      "address": "0x4119093cc49469d7605BdD540A2dDc2Bd904091C",
+      "txHash": "0xf4df30fa2859b818def05e288082818545361132db457b528c4fde9dedca91a1",
+      "kind": "uups"
+    },
+    {
+      "address": "0xdAf551903f91BE431Ed68F29B29012905d40E020",
+      "txHash": "0xbb262c677f66b4b23b0c261132a8637839bd16c57ec3307f1b9017edf207220c",
+      "kind": "uups"
+    },
+    {
+      "address": "0x8dc9F662868DA5F7aABd7d0D99486712F7128ee4",
+      "txHash": "0x7406d75727319261f9f02dcc85fb47f7895678f6ce7b6162f00d83bee9aa034f",
+      "kind": "uups"
+    },
+    {
+      "address": "0x7f47e5B05eE974C5438AB7941F920F36Ed8262DA",
+      "txHash": "0xed4a10e946f7597443bd5b7895b6dc1942ea7059b0e3b2e9bf764088b3215bc1",
+      "kind": "uups"
+    },
+    {
+      "address": "0xbc186161C3d2602d4CE7d34C9FA9f39468674531",
+      "txHash": "0x63a4d053d15f0dff3ea28dc245253f789f1762466d8d352cf65280da36ab5ff4",
+      "kind": "uups"
+    },
+    {
+      "address": "0x3fB2C3AB5C41dec0B55a05b9C67Ba5851B905697",
+      "txHash": "0x1715e7153555120465fd6a32c7dccb3060644e8eedd49f510e49b8149977e7e8",
+      "kind": "uups"
+    },
+    {
+      "address": "0xC1aDFD59e54b71016DA9A8713316bA7ee2332A10",
+      "txHash": "0x6e1dcd472563f9bfd8b5c9afbe920ac2f2130bc92ed9e8f81a262c608a5e5dde",
+      "kind": "uups"
+    },
+    {
+      "address": "0x9D00500a7f12E65edbDaF4f4953b0460aA5104B8",
+      "txHash": "0xc80c10bc231e45ca93249f373c53654ae2d41993c63e5871c5b6eb841e034cd2",
+      "kind": "uups"
+    },
+    {
+      "address": "0x835635591Fb78dDa897A682ae0772EA4DC6f2db1",
+      "txHash": "0xb230db3ea7f08598e5ed967d23f0af589f8cb0122efcb906da6f37d8c1c81fe5",
+      "kind": "uups"
+    },
+    {
+      "address": "0x4330DD4666e4365E284B669C0E300a57e6ca8932",
+      "txHash": "0x1e5c05194c781010f1e4a59b478f290c60fb2136700eb8beebe16499b6cf1a6d",
+      "kind": "uups"
+    },
+    {
+      "address": "0xf55Ae3054047b1c29B2beE69fC2224dc8DcF669c",
+      "txHash": "0xa2817070084cde0457482324b720c5555d2de3ff5c2c07b2d8d2d07db5a3cd45",
+      "kind": "uups"
+    },
+    {
+      "address": "0x07aB4Ac24E311c1817d64c0F19Cb9B516500f9aB",
+      "txHash": "0x60d2b41a04a11b355c431a49999ef56fa8b9af776a651498a3769707e845dc78",
+      "kind": "uups"
+    },
+    {
+      "address": "0x7d9fe23b0e3C8F9c44B0bf0f22cC16b82170cD1A",
+      "txHash": "0xce6269954712b94d4a478561c05b2fdab5671dbca746cb1fa58de1da63fdd0c6",
+      "kind": "uups"
+    },
+    {
+      "address": "0x686Ef4807a09C31Bd9325e21373c881be0D83D79",
+      "txHash": "0x79bf32ce2f923eb728352c50f2060e6b9021b7adc0c664ed01f3cfea2a97bed0",
+      "kind": "uups"
+    },
+    {
+      "address": "0x39c30e0af576Daa9dF9EB50e33EdD3Ab538f515d",
+      "txHash": "0x04132b5b50c577299cee79f4195062892a6be9ac4ea029658119638519704752",
+      "kind": "uups"
+    },
+    {
+      "address": "0xCa95D09206679799C3452BD88817741bf2a8DBb5",
+      "txHash": "0xe9d8d0bd7743865ce30abd2ae9921f83df4f199e71ecfe5ad56c0445755feadf",
+      "kind": "uups"
+    },
+    {
+      "address": "0x3Ec6AAf7BB1724b68bAE2a8E80D4EF9b55A3B07e",
+      "txHash": "0xd85295e8fbb2e98b211e436b69f836eb11307cf333bc1b5ab8cf93060401b7d4",
+      "kind": "uups"
+    },
+    {
+      "address": "0xb32Fe4364F8c81d4B88C370C61F8A1ee1F905786",
+      "txHash": "0x4d604676ac9872120a09fd95cd890900caf91d9fff5bd096aadda59d6a6eaef1",
+      "kind": "uups"
+    },
+    {
+      "address": "0xc9D6fC2ddB2327FA40BC3840884392804C6ce335",
+      "txHash": "0xd2b27bccd542ba9ba3b4e9a87eb216a01e5e17e0388871bc80c89a47d0937192",
+      "kind": "uups"
+    },
+    {
+      "address": "0x990Be482da118af6d50E079f3319693a416EFefC",
+      "txHash": "0x0752bf0076f622f635708419cc2a00e433da638091c1189b06e471442752c9f6",
+      "kind": "uups"
+    },
+    {
+      "address": "0xF02a46bcac5259ecFC5Cc853B6c11303676cCD10",
+      "txHash": "0x1f7764abbf2231d50c0d4c0f19670bb87f611d147b62ffec451236617843aff8",
+      "kind": "uups"
+    },
+    {
+      "address": "0x4834af3cb1995ecC3c39090B2E038543a05c78cB",
+      "txHash": "0x41030f534d812d07ace97d38c485fdfdf0341b90540783b04918e21044505854",
+      "kind": "uups"
+    },
+    {
+      "address": "0xB097d216EE48c385Fe1bb837A237fD7C27b548f7",
+      "txHash": "0x3e1078b3d13a04c2ee1a841e9494c5d5b2471647def5e636ab752079355810d3",
+      "kind": "uups"
+    },
+    {
+      "address": "0x330DAF4f9610836F79f1b2BFaB5e792b641B0e19",
+      "txHash": "0x29dbfc93116ccddd9cb1caf01fa43d97bce3697f909b75400fa9d6a7a5db2d75",
+      "kind": "uups"
+    },
+    {
+      "address": "0x7E5fB568fF4D5aa26cc1158F7c4cE9875Ce4B710",
+      "txHash": "0xaa27fba63610ccb7fa2584a4ffed92e3aead701faec218c5e88acda7f318a0fd",
+      "kind": "uups"
+    },
+    {
+      "address": "0x6DB66C9962dE0A166ADf0D6760A95F1011dEA0d9",
+      "txHash": "0xce8a52b66886f59e1dd3f26758b9f8ad81908892e28016e329be403dbe6ef6cd",
+      "kind": "uups"
+    },
+    {
+      "address": "0x9e3ab306f3BAEf2d82cDC1947e69656Da348E0C2",
+      "txHash": "0x4da15f072a95b848798d1f2a6132d6c923a5b9dd611952ab9ea2a4d70c57a541",
+      "kind": "uups"
+    },
+    {
+      "address": "0x201080CfF9f12100ba952A2E10FAA07e4ec0d4cD",
+      "txHash": "0xeda6a9c77c86cf5c8cf5623437b82ddd0c88b0798525ce065012d91c9813aa75",
+      "kind": "uups"
+    },
+    {
+      "address": "0xE5F9a300d40648AD60A326f9Dacd3f8cE8F6827A",
+      "txHash": "0x165d96904710b9dafdc89d1543fb92273e693147744e0dd26fd5b90cf39cf382",
+      "kind": "uups"
+    }
+  ],
+  "impls": {
+    "2d510c1e3f82abee749ffe0145890d690116361664f7689c122849519be07537": {
+      "address": "0x19b901B4f676e19DD453f5143f3f6EE2A4bAf1FD",
+      "txHash": "0xb819358d87fed7fb86eab3e1b2fbd9bcde993253a75e0dbb8de934eb1db02efe",
+      "layout": {
+        "solcVersion": "0.8.28",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "s_owner",
+            "offset": 2,
+            "slot": "0",
+            "type": "t_address",
+            "contract": "ConfirmedOwnerWithProposalUpgradeable",
+            "src": "contracts\\ConfirmedOwner\\ConfirmedOwnerWithProposalUpgradeable.sol:10"
+          },
+          {
+            "label": "s_pendingOwner",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_address",
+            "contract": "ConfirmedOwnerWithProposalUpgradeable",
+            "src": "contracts\\ConfirmedOwner\\ConfirmedOwnerWithProposalUpgradeable.sol:11"
+          },
+          {
+            "label": "S_vrfCoordinator",
+            "offset": 0,
+            "slot": "2",
+            "type": "t_contract(IVRFCoordinatorV2Plus)2366",
+            "contract": "VRFConsumerBaseV2PlusUpgradeable",
+            "src": "contracts\\VRFConsumerBaseV2PlusUpgradeable.sol:27"
+          },
+          {
+            "label": "dateTimeContract",
+            "offset": 0,
+            "slot": "3",
+            "type": "t_contract(DateTimeContract)7421",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:19"
+          },
+          {
+            "label": "roundCounter",
+            "offset": 0,
+            "slot": "4",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:20"
+          },
+          {
+            "label": "duration",
+            "offset": 0,
+            "slot": "5",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:21"
+          },
+          {
+            "label": "waitingTime",
+            "offset": 0,
+            "slot": "6",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:22"
+          },
+          {
+            "label": "chainlinkSubscriptionId",
+            "offset": 0,
+            "slot": "7",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:23"
+          },
+          {
+            "label": "vrfCoordinator",
+            "offset": 0,
+            "slot": "8",
+            "type": "t_address",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:24"
+          },
+          {
+            "label": "keyHash",
+            "offset": 0,
+            "slot": "9",
+            "type": "t_bytes32",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:25"
+          },
+          {
+            "label": "feePercentage",
+            "offset": 0,
+            "slot": "10",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:26"
+          },
+          {
+            "label": "allowedToken",
+            "offset": 0,
+            "slot": "11",
+            "type": "t_address",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:28"
+          },
+          {
+            "label": "ticketPrice",
+            "offset": 0,
+            "slot": "12",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:29"
+          },
+          {
+            "label": "newProjectTokenPrice",
+            "offset": 0,
+            "slot": "13",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:30"
+          },
+          {
+            "label": "firstPrize",
+            "offset": 0,
+            "slot": "14",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:31"
+          },
+          {
+            "label": "secondPrize",
+            "offset": 0,
+            "slot": "15",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:32"
+          },
+          {
+            "label": "thirdPrize",
+            "offset": 0,
+            "slot": "16",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:33"
+          },
+          {
+            "label": "maxTicketsPerUser",
+            "offset": 0,
+            "slot": "17",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:34"
+          },
+          {
+            "label": "forwarderAddress",
+            "offset": 0,
+            "slot": "18",
+            "type": "t_address",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:36"
+          },
+          {
+            "label": "ticketToOwner",
+            "offset": 0,
+            "slot": "19",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_address))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:55"
+          },
+          {
+            "label": "rounds",
+            "offset": 0,
+            "slot": "20",
+            "type": "t_mapping(t_uint256,t_struct(Round)7497_storage)",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:56"
+          },
+          {
+            "label": "requestIdToRoundId",
+            "offset": 0,
+            "slot": "21",
+            "type": "t_mapping(t_uint256,t_uint256)",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:57"
+          },
+          {
+            "label": "userTickets",
+            "offset": 0,
+            "slot": "22",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_uint256))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:58"
+          },
+          {
+            "label": "paidWithNative",
+            "offset": 0,
+            "slot": "23",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:59"
+          },
+          {
+            "label": "hasClaimedPrize",
+            "offset": 0,
+            "slot": "24",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:60"
+          },
+          {
+            "label": "hasClaimedRefund",
+            "offset": 0,
+            "slot": "25",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:61"
+          },
+          {
+            "label": "hasJoined",
+            "offset": 0,
+            "slot": "26",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:62"
+          },
+          {
+            "label": "roundRandomRequestTime",
+            "offset": 0,
+            "slot": "27",
+            "type": "t_mapping(t_uint256,t_uint256)",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:63"
+          },
+          {
+            "label": "transferredMoney",
+            "offset": 0,
+            "slot": "28",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:64"
+          },
+          {
+            "label": "refundRequestSent",
+            "offset": 0,
+            "slot": "29",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:65"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_contract(DateTimeContract)7421": {
+            "label": "contract DateTimeContract",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IVRFCoordinatorV2Plus)2366": {
+            "label": "contract IVRFCoordinatorV2Plus",
+            "numberOfBytes": "20"
+          },
+          "t_enum(RoundStatus)7475": {
+            "label": "enum Lucky.RoundStatus",
+            "members": [
+              "ENDED",
+              "CREATED",
+              "FAILED"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_address)": {
+            "label": "mapping(uint256 => address)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_bool))": {
+            "label": "mapping(uint256 => mapping(address => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(uint256 => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_address))": {
+            "label": "mapping(uint256 => mapping(uint256 => address))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Round)7497_storage)": {
+            "label": "mapping(uint256 => struct Lucky.Round)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_uint256)": {
+            "label": "mapping(uint256 => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Round)7497_storage": {
+            "label": "struct Lucky.Round",
+            "members": [
+              {
+                "label": "firstPrize",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "secondPrize",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "thirdPrize",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "ticketPrice",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "status",
+                "type": "t_enum(RoundStatus)7475",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "uniquePlayersCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "totalTicketsSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "prizeToken",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "9"
+              }
+            ],
+            "numberOfBytes": "320"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "be1aad2ce6f494a753a61218ed417a1aecf440246d40e1372c6522c3f052c316": {
+      "address": "0x6d41A32E5653F66Bd7Cf5d5336f1d7C6627ff731",
+      "txHash": "0x65456928feb0c3a08048465675b0c019a22a9c2ad809d3b75442f2d1d309a162",
+      "layout": {
+        "solcVersion": "0.8.28",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "s_owner",
+            "offset": 2,
+            "slot": "0",
+            "type": "t_address",
+            "contract": "ConfirmedOwnerWithProposalUpgradeable",
+            "src": "contracts\\ConfirmedOwner\\ConfirmedOwnerWithProposalUpgradeable.sol:10"
+          },
+          {
+            "label": "s_pendingOwner",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_address",
+            "contract": "ConfirmedOwnerWithProposalUpgradeable",
+            "src": "contracts\\ConfirmedOwner\\ConfirmedOwnerWithProposalUpgradeable.sol:11"
+          },
+          {
+            "label": "s_vrfCoordinator",
+            "offset": 0,
+            "slot": "2",
+            "type": "t_contract(IVRFCoordinatorV2Plus)2366",
+            "contract": "VRFConsumerBaseV2PlusUpgradeable",
+            "src": "contracts\\VRFConsumerBaseV2PlusUpgradeable.sol:19"
+          },
+          {
+            "label": "dateTimeContract",
+            "offset": 0,
+            "slot": "3",
+            "type": "t_contract(DateTimeContract)6482",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:17"
+          },
+          {
+            "label": "roundCounter",
+            "offset": 0,
+            "slot": "4",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:18"
+          },
+          {
+            "label": "duration",
+            "offset": 0,
+            "slot": "5",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:19"
+          },
+          {
+            "label": "waitingTime",
+            "offset": 0,
+            "slot": "6",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:20"
+          },
+          {
+            "label": "chainlinkSubscriptionId",
+            "offset": 0,
+            "slot": "7",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:21"
+          },
+          {
+            "label": "vrfCoordinator",
+            "offset": 0,
+            "slot": "8",
+            "type": "t_address",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:22"
+          },
+          {
+            "label": "keyHash",
+            "offset": 0,
+            "slot": "9",
+            "type": "t_bytes32",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:23"
+          },
+          {
+            "label": "feePercentage",
+            "offset": 0,
+            "slot": "10",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:24"
+          },
+          {
+            "label": "allowedToken",
+            "offset": 0,
+            "slot": "11",
+            "type": "t_address",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:26"
+          },
+          {
+            "label": "ticketPrice",
+            "offset": 0,
+            "slot": "12",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:27"
+          },
+          {
+            "label": "newProjectTokenPrice",
+            "offset": 0,
+            "slot": "13",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:28"
+          },
+          {
+            "label": "firstPrize",
+            "offset": 0,
+            "slot": "14",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:29"
+          },
+          {
+            "label": "secondPrize",
+            "offset": 0,
+            "slot": "15",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:30"
+          },
+          {
+            "label": "thirdPrize",
+            "offset": 0,
+            "slot": "16",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:31"
+          },
+          {
+            "label": "maxTicketsPerUser",
+            "offset": 0,
+            "slot": "17",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:32"
+          },
+          {
+            "label": "forwarderAddress",
+            "offset": 0,
+            "slot": "18",
+            "type": "t_address",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:34"
+          },
+          {
+            "label": "ticketToOwner",
+            "offset": 0,
+            "slot": "19",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_address))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:53"
+          },
+          {
+            "label": "rounds",
+            "offset": 0,
+            "slot": "20",
+            "type": "t_mapping(t_uint256,t_struct(Round)6557_storage)",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:54"
+          },
+          {
+            "label": "requestIdToRoundId",
+            "offset": 0,
+            "slot": "21",
+            "type": "t_mapping(t_uint256,t_uint256)",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:55"
+          },
+          {
+            "label": "userTickets",
+            "offset": 0,
+            "slot": "22",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_uint256))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:56"
+          },
+          {
+            "label": "paidWithNative",
+            "offset": 0,
+            "slot": "23",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:57"
+          },
+          {
+            "label": "hasClaimedPrize",
+            "offset": 0,
+            "slot": "24",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:58"
+          },
+          {
+            "label": "hasClaimedRefund",
+            "offset": 0,
+            "slot": "25",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:59"
+          },
+          {
+            "label": "hasJoined",
+            "offset": 0,
+            "slot": "26",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:60"
+          },
+          {
+            "label": "roundRandomRequestTime",
+            "offset": 0,
+            "slot": "27",
+            "type": "t_mapping(t_uint256,t_uint256)",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:61"
+          },
+          {
+            "label": "transferredMoney",
+            "offset": 0,
+            "slot": "28",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:62"
+          },
+          {
+            "label": "refundRequestSent",
+            "offset": 0,
+            "slot": "29",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:63"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_contract(DateTimeContract)6482": {
+            "label": "contract DateTimeContract",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IVRFCoordinatorV2Plus)2366": {
+            "label": "contract IVRFCoordinatorV2Plus",
+            "numberOfBytes": "20"
+          },
+          "t_enum(RoundStatus)6535": {
+            "label": "enum Lucky.RoundStatus",
+            "members": [
+              "ENDED",
+              "CREATED",
+              "FAILED"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_address)": {
+            "label": "mapping(uint256 => address)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_bool))": {
+            "label": "mapping(uint256 => mapping(address => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(uint256 => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_address))": {
+            "label": "mapping(uint256 => mapping(uint256 => address))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Round)6557_storage)": {
+            "label": "mapping(uint256 => struct Lucky.Round)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_uint256)": {
+            "label": "mapping(uint256 => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Round)6557_storage": {
+            "label": "struct Lucky.Round",
+            "members": [
+              {
+                "label": "firstPrize",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "secondPrize",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "thirdPrize",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "ticketPrice",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "status",
+                "type": "t_enum(RoundStatus)6535",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "uniquePlayersCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "totalTicketsSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "prizeToken",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "9"
+              }
+            ],
+            "numberOfBytes": "320"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "6b3f238160349dd4c6d8c79164c07c9c656041db39fb17033a079021bb25fd23": {
+      "address": "0x46D5d2068d190637fF0fDb9Becf94062cc2973c2",
+      "txHash": "0xa3525861ecea9b9c62ca274adc70c7f07f86ff6cd59d8278e9c0fe3019249bd5",
+      "layout": {
+        "solcVersion": "0.8.28",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "s_owner",
+            "offset": 2,
+            "slot": "0",
+            "type": "t_address",
+            "contract": "ConfirmedOwnerWithProposalUpgradeable",
+            "src": "contracts\\ConfirmedOwner\\ConfirmedOwnerWithProposalUpgradeable.sol:10"
+          },
+          {
+            "label": "s_pendingOwner",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_address",
+            "contract": "ConfirmedOwnerWithProposalUpgradeable",
+            "src": "contracts\\ConfirmedOwner\\ConfirmedOwnerWithProposalUpgradeable.sol:11"
+          },
+          {
+            "label": "s_vrfCoordinator",
+            "offset": 0,
+            "slot": "2",
+            "type": "t_contract(IVRFCoordinatorV2Plus)101",
+            "contract": "VRFConsumerBaseV2PlusUpgradeable",
+            "src": "contracts\\VRFConsumerBaseV2PlusUpgradeable.sol:27"
+          },
+          {
+            "label": "dateTimeContract",
+            "offset": 0,
+            "slot": "3",
+            "type": "t_contract(DateTimeContract)4217",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:17"
+          },
+          {
+            "label": "roundCounter",
+            "offset": 0,
+            "slot": "4",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:18"
+          },
+          {
+            "label": "duration",
+            "offset": 0,
+            "slot": "5",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:19"
+          },
+          {
+            "label": "waitingTime",
+            "offset": 0,
+            "slot": "6",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:20"
+          },
+          {
+            "label": "chainlinkSubscriptionId",
+            "offset": 0,
+            "slot": "7",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:21"
+          },
+          {
+            "label": "vrfCoordinator",
+            "offset": 0,
+            "slot": "8",
+            "type": "t_address",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:22"
+          },
+          {
+            "label": "keyHash",
+            "offset": 0,
+            "slot": "9",
+            "type": "t_bytes32",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:23"
+          },
+          {
+            "label": "feePercentage",
+            "offset": 0,
+            "slot": "10",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:24"
+          },
+          {
+            "label": "allowedToken",
+            "offset": 0,
+            "slot": "11",
+            "type": "t_address",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:26"
+          },
+          {
+            "label": "ticketPrice",
+            "offset": 0,
+            "slot": "12",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:27"
+          },
+          {
+            "label": "newProjectTokenPrice",
+            "offset": 0,
+            "slot": "13",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:28"
+          },
+          {
+            "label": "firstPrize",
+            "offset": 0,
+            "slot": "14",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:29"
+          },
+          {
+            "label": "secondPrize",
+            "offset": 0,
+            "slot": "15",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:30"
+          },
+          {
+            "label": "thirdPrize",
+            "offset": 0,
+            "slot": "16",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:31"
+          },
+          {
+            "label": "maxTicketsPerUser",
+            "offset": 0,
+            "slot": "17",
+            "type": "t_uint256",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:32"
+          },
+          {
+            "label": "forwarderAddress",
+            "offset": 0,
+            "slot": "18",
+            "type": "t_address",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:34"
+          },
+          {
+            "label": "ticketToOwner",
+            "offset": 0,
+            "slot": "19",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_address))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:53"
+          },
+          {
+            "label": "rounds",
+            "offset": 0,
+            "slot": "20",
+            "type": "t_mapping(t_uint256,t_struct(Round)4292_storage)",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:54"
+          },
+          {
+            "label": "requestIdToRoundId",
+            "offset": 0,
+            "slot": "21",
+            "type": "t_mapping(t_uint256,t_uint256)",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:55"
+          },
+          {
+            "label": "userTickets",
+            "offset": 0,
+            "slot": "22",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_uint256))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:56"
+          },
+          {
+            "label": "paidWithNative",
+            "offset": 0,
+            "slot": "23",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:57"
+          },
+          {
+            "label": "hasClaimedPrize",
+            "offset": 0,
+            "slot": "24",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:58"
+          },
+          {
+            "label": "hasClaimedRefund",
+            "offset": 0,
+            "slot": "25",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:59"
+          },
+          {
+            "label": "hasJoined",
+            "offset": 0,
+            "slot": "26",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:60"
+          },
+          {
+            "label": "roundRandomRequestTime",
+            "offset": 0,
+            "slot": "27",
+            "type": "t_mapping(t_uint256,t_uint256)",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:61"
+          },
+          {
+            "label": "transferredMoney",
+            "offset": 0,
+            "slot": "28",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:62"
+          },
+          {
+            "label": "refundRequestSent",
+            "offset": 0,
+            "slot": "29",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+            "contract": "Lucky",
+            "src": "contracts\\Lucky.sol:63"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_contract(DateTimeContract)4217": {
+            "label": "contract DateTimeContract",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IVRFCoordinatorV2Plus)101": {
+            "label": "contract IVRFCoordinatorV2Plus",
+            "numberOfBytes": "20"
+          },
+          "t_enum(RoundStatus)4270": {
+            "label": "enum Lucky.RoundStatus",
+            "members": [
+              "ENDED",
+              "CREATED",
+              "FAILED"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_address)": {
+            "label": "mapping(uint256 => address)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_bool))": {
+            "label": "mapping(uint256 => mapping(address => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(uint256 => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_address))": {
+            "label": "mapping(uint256 => mapping(uint256 => address))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Round)4292_storage)": {
+            "label": "mapping(uint256 => struct Lucky.Round)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_uint256)": {
+            "label": "mapping(uint256 => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Round)4292_storage": {
+            "label": "struct Lucky.Round",
+            "members": [
+              {
+                "label": "firstPrize",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "secondPrize",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "thirdPrize",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "ticketPrice",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "status",
+                "type": "t_enum(RoundStatus)4270",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "uniquePlayersCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "totalTicketsSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "prizeToken",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "9"
+              }
+            ],
+            "numberOfBytes": "320"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    }
+  }
+}
