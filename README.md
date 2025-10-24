@@ -77,21 +77,6 @@ Security & design notes
 - VRF requests are tracked by `requestIdToRoundId` to map callback to the proper round.
 - Rounds that fail or do not collect enough players are marked `FAILED` and support refunds and prize token refunds.
 
-How to make this README visible on GitHub
-----------------------------------------
-This file will render automatically on the repository main page when it's committed to the repository root and pushed to GitHub. From PowerShell in the repo root:
-
-```powershell
-git add README.md;
-git commit -m "docs: add Lucky project README";
-git push origin HEAD
-```
-
-Replace `HEAD` with your default branch name if needed (for example `main`):
-
-```powershell
-git push origin main
-```
 
 License
 -------
